@@ -1,6 +1,5 @@
 
- ![image](https://github.com/user-attachments/assets/a7a627f3-4104-452b-bc81-2553bb54705c)
-
+![image](https://github.com/user-attachments/assets/256f356f-fd99-4c99-be75-3ca669cf3be3)
 
 
 <h1 align="center">Hi 👋, I'm MD WASIM HASAN</h1>
