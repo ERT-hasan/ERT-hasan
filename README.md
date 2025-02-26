@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdwasimhasan454@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ERT-hasan/RESUM08](https://github.com/ERT-hasan/RESUM08)
+- 📄 Know about my experiences [https://github.com/ERT-hasan/RESUME08)
 
 - ⚡ Fun fact **I think i am funny😆😂**
 
