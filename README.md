@@ -1,6 +1,6 @@
 
-![] (![image](https://github.com/user-attachments/assets/6758f6df-3c0b-42ff-b86a-2a528bc9f7da)
-)
+ ![image](https://github.com/user-attachments/assets/6758f6df-3c0b-42ff-b86a-2a528bc9f7da)
+
 
 <h1 align="center">Hi 👋, I'm MD WASIM HASAN</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
