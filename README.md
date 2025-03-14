@@ -4,13 +4,13 @@
 
 
 <h1 align="center">Hi 👋, I'm MD WASIM HASAN</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ert-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ert-hasan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/ERT-hasan)
 
 - 📫 How to reach me **mdwasimhasan454@gmail.com**
 
