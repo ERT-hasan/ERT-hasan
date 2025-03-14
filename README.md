@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ert-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ert-hasan" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ERT-hasan)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dashboard)
 
 - 💎 Know about my experiences [My Resume](https://github.com/ERT-hasan/RESUME08)
 
