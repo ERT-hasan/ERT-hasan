@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ert-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ert-hasan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/ERT-hasan)
+- 👨‍💻 All of my projects are available at https://github.com/ERT-hasan
 
 - 📫 How to reach me **mdwasimhasan454@gmail.com**
 
